@@ -3,8 +3,8 @@ const appointmentLinks = [
   // OWNER QUICK EDITS
   // Edit labels and links below. Add or remove buttons as needed.
   // ===========================================================
-  { enabled: true, label: "Wednesday August 26th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-65336002-wednesday#/", external: true },
-  { enabled: true, label: "Thursday August 27th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-65336005-thursday#/", external: true }
+  { enabled: true, label: "Wednesday September 2nd Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-65480929-wednesday#/", external: true },
+  { enabled: true, label: "Thursday September 3rd Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-65480948-thursday#/", external: true }
 ];
 
 const siteData = {
@@ -145,7 +145,7 @@ const siteData = {
       { question: "How many items can I drop off?", answer: "Roadrunner Auctions lists a maximum of 30 lots per scheduled drop off, and each lot should potentially sell for at least $20." },
       { question: "Does Roadrunner Auctions clean, repair, or lot consignor items?", answer: "No. Consignors arrange their items into lots as they want them sold. Roadrunner Auctions states that they do not lot, clean, or repair items and may reject items found to be in unsalable condition." },
       { question: "Does Roadrunner Auctions offer pickup or delivery service?", answer: "Roadrunner Auctions does not offer pickup or delivery service at this time." },
-      { question: "When do consignors get paid?", answer: "Roadrunner Auctions lists payment as ready the next day after the auction closes. Use the scheduler to make an appointment for payment and any unsold items." },
+      { question: "When do consignors get paid?", answer: "Roadrunner Auctions lists payment as ready one week after the auction closes. Use the scheduler to make an appointment for payment and any unsold items." },
       { question: "I have another question. How can I reach you?", answer: "Call, email, or use the Contact page for auction questions, pickup questions, or seller inquiries." }
     ]
   },
