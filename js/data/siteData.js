@@ -17,7 +17,7 @@ const siteData = {
     phoneHref: "tel:5057171839",
     email: "roadrunnerauctionsnm@gmail.com",
     emailHref: "mailto:roadrunnerauctionsnm@gmail.com",
-    addressLines: ["2845 Girard Blvd NE", "Albuquerque, NM 87107"],
+    addressLines: ["Follow signs from Lead & Wellesley 87043"],
     logo: "assets/roadrunner-logo.png",
     hibidUrl: "https://roadrunnerauctions.hibid.com/"
   },
