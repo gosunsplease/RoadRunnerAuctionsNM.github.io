@@ -3,8 +3,8 @@ const appointmentLinks = [
   // OWNER QUICK EDITS
   // Edit labels and links below. Add or remove buttons as needed.
   // ===========================================================
-  { enabled: true, label: "Wednesday November 4th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-67235993-wednesday#/", external: true },
-  { enabled: true, label: "Thursday November 5th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-67235996-thursday#/", external: true }
+  { enabled: true, label: "Wednesday November 11th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-67442528-wednesday#/", external: true },
+  { enabled: true, label: "Thursday November 12th Buyer Appointment Schedule", href: "https://www.signupgenius.com/go/9040449A9AF2EA6FB6-67442548-thursday#/", external: true }
 ];
 
 const siteData = {
